@@ -1,0 +1,16 @@
+id = "solidity"
+name = "Solidity"
+version = "0.0.1"
+schema_version = 1
+license = "GPL-3.0-or-later"
+authors = ["Sambot <0xsambot@protonmail.com>"]
+description = "Solidity support."
+repository = "https://github.com/nomad-lw/zed-extensions_solidity"
+
+[grammars.solidity]
+repository = "https://github.com/JoranHonig/tree-sitter-solidity"
+rev = "e45a52ce8091b82863c54c449001fc77a3154461"
+
+[language_servers.solidity]
+name = "Nethereum Solidity Language Server"
+languages = ["Solidity"]

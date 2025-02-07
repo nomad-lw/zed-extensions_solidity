@@ -1,0 +1,10 @@
+[package]
+name = "zed-extensions_solidity"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zed_extension_api = "0.2.0"
+
+[lib]
+crate-type = ["cdylib"]
