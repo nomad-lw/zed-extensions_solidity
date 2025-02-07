@@ -63,11 +63,9 @@ This is an initial developmental version with basic functionality. Future update
 - Import resolution
 - Enhanced type checking
 
-## Author
+## Contributing
 
-**Sambot** ([0xsambot@protonmail.com](mailto:0xsambot@protonmail.com))
-- GitHub: [@nomad-lw](https://github.com/nomad-lw)
-- Contributions and feedback welcome!
+Feel free to open issues and submit pull requests. All contributions are welcome!
 
 ## Credits
 
@@ -76,6 +74,10 @@ This is an initial developmental version with basic functionality. Future update
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+<p align="center">
+This project is licensed under the GNU General Public License v3.0 - see the <a href="LICENSE.md">LICENSE.md</a> file for details.
+</p>
 
-Copyright (C) 2025 Sambot <0xsambot@protonmail.com>
+<p align="center">
+	Copyright &copy; 2025-present <a href="https://github.com/nomad-lw" target="_blank">Sambot</a> (<a href="mailto:0xsambot@protonmail.com">0xsambot@protonmail.com</a>)
+</p>
