@@ -67,8 +67,6 @@ impl Solidity {
             .to_string();
         // The binary might be in bin/vscode-solidity-server instead of bin/server
         let binary_path = format!("{}/{}", node_path, LSP_PACKAGE_NAME);
-        // .nvm/versions/node/v20.5.1/bin/node/lib/node_modules/vscode-solidity-server/bin/vscode-solidity-server
-        // .nvm/versions/node/v20.5.1/bin/vscode-solidity-server
 
         self.cached_binary_path = Some(binary_path.clone());
         Ok(binary_path)
